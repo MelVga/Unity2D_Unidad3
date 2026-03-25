@@ -16,3 +16,8 @@
 *.booproj
 *.svd
 .DS_Store
+
+Assets/Firebase/Plugins/x86_64/
+Assets/Firebase/Plugins/x86/
+Assets/Firebase/Plugins/arm64-v8a/
+Assets/Firebase/Plugins/armeabi-v7a/

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "579836183633",
+    "project_id": "unity2d-game",
+    "storage_bucket": "unity2d-game.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579836183633:android:a8f0f449b548f9b72aa470",
+        "android_client_info": {
+          "package_name": "com.melvega.unity2dgame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgT1bnHyJ3dhrzDwQWFyHrxiAUhg99oYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
